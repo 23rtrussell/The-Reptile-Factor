@@ -4,7 +4,6 @@ header{
     height: 50px;
     text-align: center;
     font-size: xx-large;
-    
 }
 
 body{
@@ -15,11 +14,16 @@ body{
 }
 
 #links{
-    border: green solid 3px;
+    border: green solid 2px;
+    background-color: #10A355;
 }
 
 #content{
-    border: solid brown 5px;
+    border: solid #A36A00 2px;
+}
+
+img {
+    float: right;
 }
 
 footer{
