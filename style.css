@@ -7,10 +7,15 @@ header{
 }
 
 body{
-    background-color: #f0ffff;
+    background-color: lightskyblue;
     display:grid;
     grid-template-rows: 1fr 1fr 3fr;
     font-size: large;
+}
+
+button{
+    background-color: #A36A00;
+    border: 2px solid black;
 }
 
 #links{
@@ -20,15 +25,17 @@ body{
 
 #content{
     border: solid #A36A00 2px;
+    background-color: lightgreen;
+    font-size: medium;
 }
 
-img {
-    float: right;
-    position: relative;
+#extras {
+    background-color: #A36A00;
+    font-size: larger;
 }
+
 
 footer{
     background-color: #FFF8D6 ;
     border: solid 2px black;
-    margin-top: 1%;
 }
