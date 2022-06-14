@@ -1,4 +1,9 @@
 # The-Final-Toothy-Showdown
+## This app is meant for people that want to know a little about reptiles but no a huge amount to learn a little. 
+## It allows the user to randomize a fact and read a new fact.
+## As a User i want to be able to get just some fun facts but not have to read alot of extra stuff to do so. I want this so i can learn but in a fun way.
+##
+##
 ## reset css
 ### /* http://meyerweb.com/eric/tools/css/reset/ 
 ### v2.0 | 20110126
