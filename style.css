@@ -9,7 +9,7 @@ header{
 body{
     background-color: lightskyblue;
     display:grid;
-    grid-template-rows: 1fr 1fr 3fr;
+    grid-template-rows: 5fr 6fr;
     font-size: large;
 }
 
@@ -21,12 +21,14 @@ button{
 #links{
     border: green solid 2px;
     background-color: #10A355;
+    margin-bottom: 0%;
 }
 
 #content{
     border: solid #A36A00 2px;
     background-color: lightgreen;
     font-size: medium;
+    margin-top: 0%;
 }
 
 #extras {
