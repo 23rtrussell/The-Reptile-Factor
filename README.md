@@ -15,10 +15,10 @@
 ### All pictures used
 ### https://www.britannica.com/animal/crocodile-order#/media/1/143704/97787 
 ### https://upload.wikimedia.org/wikipedia/commons/b/bd/Nile_crocodile_head.jpg
-### https://www.britannica.com/animal/crocodile-order#/media/1/143704/233733
+### https://live.staticflickr.com/3028/3031780409_1df7730638_b.jpg
 ###
-###
-###
+### The randomize javascript
+### https://codepen.io/mmlumba/pen/BJvEmb
 ###
 ###
 ###

@@ -24,6 +24,7 @@ body{
 
 img {
     float: right;
+    position: relative;
 }
 
 footer{
